@@ -1,7 +1,7 @@
 * { font-family: 'Roboto', sans-serif; }
 
 body {
-    background: url("https://fredrikhelenelund.github.io/imgs/Background.jpg");
+    background: url("../imgs/Background.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center;
